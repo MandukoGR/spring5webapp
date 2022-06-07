@@ -16,7 +16,7 @@ public class Publisher {
     private String state;
     private String zipCode;
 
-    public Publisher(String wrox, String new_york, String usa, String s) {
+    public Publisher() {
 
     }
 
